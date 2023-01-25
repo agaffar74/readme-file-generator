@@ -40,7 +40,7 @@ const generateMarkdown = response => {
   
 
   ## Questions
-  If you have any questions about this README creator app projects, please contact me directly via email or GitHub with the information below:
+  If you have any questions or sugessions about this README creator app projects, please contact me directly via email or GitHub with the information below:
   *  Email at ${response.email}. 
   *  GitHub at https://github.com/${response.github}.
 `
