@@ -40,7 +40,7 @@ const questions = [
     {
         type: 'input',
         name: 'install',
-        message: 'What command should be run to installdepencies?',
+        message: 'What command should be run to install depencies?',
         default: 'npm i',
     },
     {
