@@ -46,4 +46,4 @@
   ## Questions
   If you have any questions about this README creator app projects, please contact me directly via email or GitHub with the information below:
   *  Email at a_gaffar74@yahoo.com. 
-  *  GitHub at https://github.com/agaffar.
+  *  GitHub at https://github.com/agaffar74
