@@ -56,7 +56,7 @@ const questions = [
     {
         type: 'input',
         name: 'test',
-        message: 'What is the command to run tests?',
+        message: 'What command/commands to be used to run the test?',
         default: 'npm test',
     },
 ];
