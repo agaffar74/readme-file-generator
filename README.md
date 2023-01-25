@@ -1,6 +1,13 @@
 # README File Generator
   ![Github licence](http://img.shields.io/badge/license-MIT-blue.svg)
   
+  
+  ## User Story
+  * AS A developer
+  * I WANT a README generator
+  * SO THAT I can quickly create a professional README for a new project
+
+
   ## Description 
   This is a command line application that dynamically generate a professional README.md file from user's input
 
@@ -16,11 +23,11 @@
 
     
   ## Installation 
-  Users need to install Node.js programme to run this application. Users also need to have access to IDE such as Visual Studio Code with access to terminal
+  Users need to install Node.js to run this application. They also need to have access to a IDE such as Visual Studio Code with access to the terminal or CLI to run  Node.js. 
 
 
   ## Usage 
-  using the 'node inde,js' command in a terminal user need start the application and answer all the prompts.
+  Users need to command node index.js in the terminal to run the README generator and answer all the prompts. Once all the prompts are answered, users need to open the README.md file that has just been created in the current working directory. User can preview it in Visual Studio Code or in a browser.
 
 
   ## License 
@@ -29,7 +36,7 @@
 
 
   ## Contributing 
-  Suggestions are welcome
+  Any suggestions or contributions are welcome to upgrade this application. Please open an issue or a pull request to contribute to this project.
 
 
   ## Tests
