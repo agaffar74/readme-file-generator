@@ -9,7 +9,13 @@ const generateMarkdown = response => {
 
 
 
- 
+  ## Table of Contents
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [License](#license)
+  * [Contribution](#contribution)
+  * [Test](#test)
+  * [Questions](#questions)
 
     
   ## Installation 
