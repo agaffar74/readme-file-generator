@@ -12,7 +12,7 @@
   This is a command line application that dynamically generate a professional README.md file from user's input
   
   ## Demo Video
-  video/README File Generator.webm
+  https://drive.google.com/file/d/1lkhZ5CjyzfOdbVw3_o-yJfLftXUxYT_t/view
 
 
 
