@@ -27,7 +27,7 @@ const generateMarkdown = response => {
 
 
   ## License 
-  This project is license under  
+  This project is license under  ${response.license}
   ![Github licence](http://img.shields.io/badge/license-${response.license}-blue.svg)
 
 
