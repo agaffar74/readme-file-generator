@@ -40,7 +40,7 @@
 
 
   ## Tests
-  npm test
+  Use command npm test to perform the test of this application
   
 
   ## Questions
