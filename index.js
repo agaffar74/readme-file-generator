@@ -51,7 +51,7 @@ const questions = [
     {
         type: 'input',
         name: 'contribute',
-        message: 'How others can contribute to this README creator project',
+        message: 'How others can contribute to this README Generator project',
     },
     {
         type: 'input',
