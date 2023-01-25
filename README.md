@@ -10,6 +10,9 @@
 
   ## Description 
   This is a command line application that dynamically generate a professional README.md file from user's input
+  
+  ## Demo Video
+  video/README File Generator.webm
 
 
 
