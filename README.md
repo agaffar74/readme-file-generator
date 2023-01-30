@@ -14,6 +14,8 @@
   
   ## Video of Demo
   Please click the link below to see the demonstration of this project's functionality.
+  https://github.com/agaffar74/readme-file-generator/blob/main/video/README%20File%20Generator.webm?raw=true
+  
   https://drive.google.com/file/d/1lkhZ5CjyzfOdbVw3_o-yJfLftXUxYT_t/view
 
 
